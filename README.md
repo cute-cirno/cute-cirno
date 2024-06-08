@@ -9,6 +9,6 @@
 
 ## 项目开发概要
 <div align="center">
-    <img src="https://api.githubtrends.io/user/svg/cute-cirno/langs?time_range=one_year&include_private=True&compact=True&theme=classic" style="height: 200px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cute-cirno&layout=compact" style="height: 200px">
     <img src="https://github-readme-stats.vercel.app/api?username=cute-cirno&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" style="height: 200px">
 </div>
